@@ -1,0 +1,952 @@
+{
+  "type": "FeatureCollection",
+  "name": "DEN Delay Map v2 - MyRadar Demo",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DEN Airport Operating Area",
+        "layer": "DEN Delay Map v2",
+        "stroke": "#ffffff",
+        "stroke-width": 2,
+        "stroke-opacity": 0.75,
+        "fill": "#ffffff",
+        "fill-opacity": 0.045,
+        "description": "Demo/static airport operating area around Denver International Airport."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -104.42016725165256,
+              39.82178217832669
+            ],
+            [
+              -104.41831786434041,
+              39.83227041608254
+            ],
+            [
+              -104.41756206254013,
+              39.8428606957751
+            ],
+            [
+              -104.41790308271106,
+              39.8535076682009
+            ],
+            [
+              -104.41933946455248,
+              39.864165741389435
+            ],
+            [
+              -104.42186505725684,
+              39.87478927583506
+            ],
+            [
+              -104.42546904584842,
+              39.88533277993234
+            ],
+            [
+              -104.43013599749477,
+              39.89575110477805
+            ],
+            [
+              -104.4358459275925,
+              39.90599963750575
+            ],
+            [
+              -104.44257438534429,
+              39.91603449232492
+            ],
+            [
+              -104.45029255846107,
+              39.92581269844664
+            ],
+            [
+              -104.45896739654067,
+              39.93529238409113
+            ],
+            [
+              -104.46856175259464,
+              39.944432955789104
+            ],
+            [
+              -104.47903454211739,
+              39.953195272209264
+            ],
+            [
+              -104.49034091901636,
+              39.96154181176749
+            ],
+            [
+              -104.50243246764992,
+              39.9694368333
+            ],
+            [
+              -104.51525741015047,
+              39.976846529112535
+            ],
+            [
+              -104.52876082814531,
+              39.983739169750066
+            ],
+            [
+              -104.54288489792549,
+              39.990085239867206
+            ],
+            [
+              -104.55756913805585,
+              39.995857564617445
+            ],
+            [
+              -104.57275066836579,
+              40.00103142602003
+            ],
+            [
+              -104.58836447921182,
+              40.00558466880611
+            ],
+            [
+              -104.6043437098588,
+              40.00949779529106
+            ],
+            [
+              -104.62061993478794,
+              40.01275404886651
+            ],
+            [
+              -104.63712345670532,
+              40.01533948575476
+            ],
+            [
+              -104.65378360499642,
+              40.017243034718106
+            ],
+            [
+              -104.67052903834855,
+              40.01845654446767
+            ],
+            [
+              -104.68728805024529,
+              40.01897481856838
+            ],
+            [
+              -104.7039888760248,
+              40.01879563769099
+            ],
+            [
+              -104.72056000018713,
+              40.01791976911552
+            ],
+            [
+              -104.73693046263459,
+              40.016350963445674
+            ],
+            [
+              -104.75303016253372,
+              40.01409593854818
+            ],
+            [
+              -104.76879015849791,
+              40.01116435078584
+            ],
+            [
+              -104.7841429638049,
+              40.00756875366753
+            ],
+            [
+              -104.79902283538536,
+              40.0033245440921
+            ],
+            [
+              -104.81336605534479,
+              39.99844989641655
+            ],
+            [
+              -104.8271112038133,
+              39.99296568463059
+            ],
+            [
+              -104.84019942195498,
+              39.98689539297104
+            ],
+            [
+              -104.85257466401039,
+              39.98026501535872
+            ],
+            [
+              -104.86418393729316,
+              39.97310294408846
+            ],
+            [
+              -104.87497752911283,
+              39.965439848249005
+            ],
+            [
+              -104.88490921965214,
+              39.957308542393186
+            ],
+            [
+              -104.89393647988747,
+              39.948743846021024
+            ],
+            [
+              -104.90202065370461,
+              39.93978243447725
+            ],
+            [
+              -104.90912712343015,
+              39.93046268190189
+            ],
+            [
+              -104.91522545806974,
+              39.920824496906256
+            ],
+            [
+              -104.92028954361821,
+              39.91090915167819
+            ],
+            [
+              -104.9242976948838,
+              39.90075910524818
+            ],
+            [
+              -104.92723274834744,
+              39.8904178216733
+            ],
+            [
+              -104.92908213565958,
+              39.87992958391746
+            ],
+            [
+              -104.92983793745987,
+              39.869339304224894
+            ],
+            [
+              -104.92949691728893,
+              39.8586923317991
+            ],
+            [
+              -104.92806053544751,
+              39.84803425861056
+            ],
+            [
+              -104.92553494274316,
+              39.83741072416493
+            ],
+            [
+              -104.92193095415158,
+              39.826867220067655
+            ],
+            [
+              -104.91726400250522,
+              39.816448895221946
+            ],
+            [
+              -104.9115540724075,
+              39.806200362494245
+            ],
+            [
+              -104.9048256146557,
+              39.79616550767508
+            ],
+            [
+              -104.89710744153892,
+              39.786387301553354
+            ],
+            [
+              -104.88843260345932,
+              39.77690761590887
+            ],
+            [
+              -104.87883824740535,
+              39.76776704421089
+            ],
+            [
+              -104.8683654578826,
+              39.75900472779073
+            ],
+            [
+              -104.85705908098363,
+              39.75065818823251
+            ],
+            [
+              -104.84496753235007,
+              39.742763166699994
+            ],
+            [
+              -104.83214258984952,
+              39.73535347088746
+            ],
+            [
+              -104.81863917185468,
+              39.72846083024993
+            ],
+            [
+              -104.8045151020745,
+              39.72211476013279
+            ],
+            [
+              -104.78983086194414,
+              39.71634243538255
+            ],
+            [
+              -104.77464933163421,
+              39.71116857397997
+            ],
+            [
+              -104.75903552078817,
+              39.70661533119389
+            ],
+            [
+              -104.7430562901412,
+              39.702702204708935
+            ],
+            [
+              -104.72678006521205,
+              39.699445951133484
+            ],
+            [
+              -104.71027654329467,
+              39.69686051424524
+            ],
+            [
+              -104.69361639500357,
+              39.69495696528189
+            ],
+            [
+              -104.67687096165145,
+              39.69374345553233
+            ],
+            [
+              -104.66011194975471,
+              39.693225181431615
+            ],
+            [
+              -104.6434111239752,
+              39.693404362309
+            ],
+            [
+              -104.62683999981286,
+              39.69428023088447
+            ],
+            [
+              -104.6104695373654,
+              39.69584903655432
+            ],
+            [
+              -104.59436983746627,
+              39.698104061451815
+            ],
+            [
+              -104.57860984150209,
+              39.701035649214155
+            ],
+            [
+              -104.5632570361951,
+              39.70463124633247
+            ],
+            [
+              -104.54837716461464,
+              39.708875455907894
+            ],
+            [
+              -104.5340339446552,
+              39.71375010358344
+            ],
+            [
+              -104.52028879618669,
+              39.719234315369405
+            ],
+            [
+              -104.50720057804502,
+              39.72530460702895
+            ],
+            [
+              -104.4948253359896,
+              39.73193498464128
+            ],
+            [
+              -104.48321606270683,
+              39.739097055911536
+            ],
+            [
+              -104.47242247088717,
+              39.74676015175099
+            ],
+            [
+              -104.46249078034785,
+              39.75489145760681
+            ],
+            [
+              -104.45346352011252,
+              39.76345615397897
+            ],
+            [
+              -104.44537934629538,
+              39.772417565522744
+            ],
+            [
+              -104.43827287656984,
+              39.7817373180981
+            ],
+            [
+              -104.43217454193025,
+              39.79137550309374
+            ],
+            [
+              -104.42711045638178,
+              39.801290848321806
+            ],
+            [
+              -104.42310230511619,
+              39.81144089475182
+            ],
+            [
+              -104.42016725165256,
+              39.82178217832669
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Northwest Approach Impact",
+        "layer": "DEN Delay Map v2",
+        "stroke": "#ffcc00",
+        "stroke-width": 3,
+        "stroke-opacity": 0.95,
+        "fill": "#ffcc00",
+        "fill-opacity": 0.13,
+        "description": "Demo weather-impact polygon for MyRadar broadcast-style DEN delay map."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.35,
+              40.18
+            ],
+            [
+              -105.12,
+              40.1
+            ],
+            [
+              -104.88,
+              39.98
+            ],
+            [
+              -104.98,
+              39.86
+            ],
+            [
+              -105.28,
+              39.97
+            ],
+            [
+              -105.48,
+              40.1
+            ],
+            [
+              -105.35,
+              40.18
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South/Southeast Departure Impact",
+        "layer": "DEN Delay Map v2",
+        "stroke": "#ff0000",
+        "stroke-width": 3,
+        "stroke-opacity": 0.95,
+        "fill": "#ff0000",
+        "fill-opacity": 0.11,
+        "description": "Demo weather-impact polygon for MyRadar broadcast-style DEN delay map."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -104.86,
+              39.55
+            ],
+            [
+              -104.55,
+              39.5
+            ],
+            [
+              -104.35,
+              39.22
+            ],
+            [
+              -104.62,
+              39.1
+            ],
+            [
+              -104.88,
+              39.32
+            ],
+            [
+              -104.98,
+              39.48
+            ],
+            [
+              -104.86,
+              39.55
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East Arrival Rain Shield",
+        "layer": "DEN Delay Map v2",
+        "stroke": "#ffcc00",
+        "stroke-width": 3,
+        "stroke-opacity": 0.95,
+        "fill": "#ffcc00",
+        "fill-opacity": 0.09,
+        "description": "Demo weather-impact polygon for MyRadar broadcast-style DEN delay map."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -104.52,
+              39.98
+            ],
+            [
+              -104.1,
+              39.96
+            ],
+            [
+              -103.88,
+              39.76
+            ],
+            [
+              -104.1,
+              39.6
+            ],
+            [
+              -104.5,
+              39.68
+            ],
+            [
+              -104.66,
+              39.84
+            ],
+            [
+              -104.52,
+              39.98
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DEN | Denver International Airport",
+        "layer": "DEN Delay Map v2",
+        "marker-color": "#d71920",
+        "marker-size": "large",
+        "marker-symbol": "airport",
+        "description": "Demo status: Ground Stop until 3:30 PM MDT. Not live data."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6737,
+          39.8561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Arrival Flow",
+        "layer": "DEN Delay Map v2",
+        "stroke": "#ffffff",
+        "stroke-width": 2,
+        "stroke-opacity": 0.88,
+        "description": "Demo arrival/departure flow line; not live flight data."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.1,
+            39.78
+          ],
+          [
+            -105.55,
+            39.78
+          ],
+          [
+            -105.05,
+            39.82
+          ],
+          [
+            -104.6737,
+            39.8561
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Northwest Arrival Flow",
+        "layer": "DEN Delay Map v2",
+        "stroke": "#ffffff",
+        "stroke-width": 2,
+        "stroke-opacity": 0.88,
+        "description": "Demo arrival/departure flow line; not live flight data."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -105.82,
+            40.45
+          ],
+          [
+            -105.43,
+            40.25
+          ],
+          [
+            -105.05,
+            40.04
+          ],
+          [
+            -104.6737,
+            39.8561
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Northeast Arrival Flow",
+        "layer": "DEN Delay Map v2",
+        "stroke": "#ffffff",
+        "stroke-width": 2,
+        "stroke-opacity": 0.88,
+        "description": "Demo arrival/departure flow line; not live flight data."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.5,
+            40.36
+          ],
+          [
+            -103.95,
+            40.21
+          ],
+          [
+            -104.35,
+            40.03
+          ],
+          [
+            -104.6737,
+            39.8561
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East Departure Flow",
+        "layer": "DEN Delay Map v2",
+        "stroke": "#ffffff",
+        "stroke-width": 2,
+        "stroke-opacity": 0.88,
+        "description": "Demo arrival/departure flow line; not live flight data."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -104.6737,
+            39.8561
+          ],
+          [
+            -104.05,
+            39.84
+          ],
+          [
+            -103.5,
+            39.78
+          ],
+          [
+            -103.05,
+            39.72
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Departure Flow",
+        "layer": "DEN Delay Map v2",
+        "stroke": "#ffffff",
+        "stroke-width": 2,
+        "stroke-opacity": 0.88,
+        "description": "Demo arrival/departure flow line; not live flight data."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -104.6737,
+            39.8561
+          ],
+          [
+            -104.66,
+            39.45
+          ],
+          [
+            -104.68,
+            39.0
+          ],
+          [
+            -104.7,
+            38.62
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southwest Departure Flow",
+        "layer": "DEN Delay Map v2",
+        "stroke": "#ffffff",
+        "stroke-width": 2,
+        "stroke-opacity": 0.88,
+        "description": "Demo arrival/departure flow line; not live flight data."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -104.6737,
+            39.8561
+          ],
+          [
+            -104.98,
+            39.64
+          ],
+          [
+            -105.4,
+            39.43
+          ],
+          [
+            -105.92,
+            39.24
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inbound W1",
+        "layer": "DEN Delay Map v2",
+        "marker-color": "#ffffff",
+        "marker-size": "small",
+        "marker-symbol": "airport",
+        "description": "Demo aircraft marker; not live flight data."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.55,
+          39.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inbound W2",
+        "layer": "DEN Delay Map v2",
+        "marker-color": "#ffffff",
+        "marker-size": "small",
+        "marker-symbol": "airport",
+        "description": "Demo aircraft marker; not live flight data."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.05,
+          39.82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inbound NW1",
+        "layer": "DEN Delay Map v2",
+        "marker-color": "#ffffff",
+        "marker-size": "small",
+        "marker-symbol": "airport",
+        "description": "Demo aircraft marker; not live flight data."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.4,
+          40.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inbound NE1",
+        "layer": "DEN Delay Map v2",
+        "marker-color": "#ffffff",
+        "marker-size": "small",
+        "marker-symbol": "airport",
+        "description": "Demo aircraft marker; not live flight data."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.03,
+          40.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Outbound E1",
+        "layer": "DEN Delay Map v2",
+        "marker-color": "#ffffff",
+        "marker-size": "small",
+        "marker-symbol": "airport",
+        "description": "Demo aircraft marker; not live flight data."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.05,
+          39.84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Outbound E2",
+        "layer": "DEN Delay Map v2",
+        "marker-color": "#ffffff",
+        "marker-size": "small",
+        "marker-symbol": "airport",
+        "description": "Demo aircraft marker; not live flight data."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.48,
+          39.78
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Outbound S1",
+        "layer": "DEN Delay Map v2",
+        "marker-color": "#ffffff",
+        "marker-size": "small",
+        "marker-symbol": "airport",
+        "description": "Demo aircraft marker; not live flight data."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.67,
+          39.42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Outbound SW1",
+        "layer": "DEN Delay Map v2",
+        "marker-color": "#ffffff",
+        "marker-size": "small",
+        "marker-symbol": "airport",
+        "description": "Demo aircraft marker; not live flight data."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.33,
+          39.47
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DEN DELAY STATUS | Ground Stop until 3:30 PM MDT | 59 F | Wind 15 mph | Visibility 7 mi",
+        "layer": "DEN Delay Map v2",
+        "stroke": "#d71920",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#d71920",
+        "fill-opacity": 0.12,
+        "description": "Compact demo status-card polygon. MyRadar may display full status text only when selected."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.02,
+              40.12
+            ],
+            [
+              -104.52,
+              40.12
+            ],
+            [
+              -104.52,
+              40.25
+            ],
+            [
+              -105.02,
+              40.25
+            ],
+            [
+              -105.02,
+              40.12
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
