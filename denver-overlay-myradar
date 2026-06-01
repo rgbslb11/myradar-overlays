@@ -1,0 +1,263 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "object_type": "custom_data_overlay",
+        "color": "FFFF0000",
+        "hoverable": true,
+        "hover_title": "DEN | GDP Active",
+        "hover_text": "GDP active due thunderstorms",
+        "tappable": true,
+        "details_title": "DEN Delay Status",
+        "details_subtitle": "GDP active | Avg delay 63 min | Max delay 386 min",
+        "details_description": "FAA/ATCSCC demo status: Ground Delay Program active due WEATHER / THUNDERSTORMS. Average delay 63 minutes. Maximum delay 386 minutes. Program period 2108Z-0259Z. Ground stop canceled; GDP remains active."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6737,
+          39.8561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_type": "custom_data_overlay",
+        "color": "FFFFCC00",
+        "hoverable": true,
+        "hover_title": "DEN FAA Status Details",
+        "hover_text": "Click for FAA delay details",
+        "tappable": true,
+        "details_title": "DEN FAA / ATCSCC Status",
+        "details_subtitle": "Weather / thunderstorms",
+        "details_description": "Ground Delay Program active. Average delay: 63 minutes. Maximum delay: 386 minutes. Departures destined to DEN delayed average 63 minutes. General departure gate-hold/taxi delays 16-30 minutes and increasing. Arrival airborne delays 15 minutes or less. Static demo layer from supplied advisory."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.95,
+          40.12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_type": "custom_data_overlay",
+        "color": "CCFFFFFF",
+        "hoverable": true,
+        "hover_title": "West Arrival Flow",
+        "hover_text": "Static demo flight-flow line",
+        "tappable": true,
+        "details_title": "West Arrival Flow",
+        "details_subtitle": "Demo aviation flow line",
+        "details_description": "Static MyRadar-compliant LineString using object_type, color, and strokeWidth only. Not live flight data.",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -106.1,
+            39.82
+          ],
+          [
+            -105.55,
+            39.83
+          ],
+          [
+            -105.08,
+            39.85
+          ],
+          [
+            -104.6737,
+            39.8561
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_type": "custom_data_overlay",
+        "color": "CCFFFFFF",
+        "hoverable": true,
+        "hover_title": "Northwest Arrival Flow",
+        "hover_text": "Static demo flight-flow line",
+        "tappable": true,
+        "details_title": "Northwest Arrival Flow",
+        "details_subtitle": "Demo aviation flow line",
+        "details_description": "Static MyRadar-compliant LineString using object_type, color, and strokeWidth only. Not live flight data.",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -105.78,
+            40.42
+          ],
+          [
+            -105.38,
+            40.24
+          ],
+          [
+            -105.02,
+            40.03
+          ],
+          [
+            -104.6737,
+            39.8561
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_type": "custom_data_overlay",
+        "color": "CCFFFFFF",
+        "hoverable": true,
+        "hover_title": "Northeast Arrival Flow",
+        "hover_text": "Static demo flight-flow line",
+        "tappable": true,
+        "details_title": "Northeast Arrival Flow",
+        "details_subtitle": "Demo aviation flow line",
+        "details_description": "Static MyRadar-compliant LineString using object_type, color, and strokeWidth only. Not live flight data.",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -103.55,
+            40.28
+          ],
+          [
+            -104.0,
+            40.14
+          ],
+          [
+            -104.38,
+            39.98
+          ],
+          [
+            -104.6737,
+            39.8561
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_type": "custom_data_overlay",
+        "color": "CCFFFFFF",
+        "hoverable": true,
+        "hover_title": "East Departure Flow",
+        "hover_text": "Static demo flight-flow line",
+        "tappable": true,
+        "details_title": "East Departure Flow",
+        "details_subtitle": "Demo aviation flow line",
+        "details_description": "Static MyRadar-compliant LineString using object_type, color, and strokeWidth only. Not live flight data.",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -104.6737,
+            39.8561
+          ],
+          [
+            -104.08,
+            39.86
+          ],
+          [
+            -103.5,
+            39.82
+          ],
+          [
+            -102.95,
+            39.76
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_type": "custom_data_overlay",
+        "color": "CCFFFFFF",
+        "hoverable": true,
+        "hover_title": "South Departure Flow",
+        "hover_text": "Static demo flight-flow line",
+        "tappable": true,
+        "details_title": "South Departure Flow",
+        "details_subtitle": "Demo aviation flow line",
+        "details_description": "Static MyRadar-compliant LineString using object_type, color, and strokeWidth only. Not live flight data.",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -104.6737,
+            39.8561
+          ],
+          [
+            -104.68,
+            39.46
+          ],
+          [
+            -104.7,
+            39.08
+          ],
+          [
+            -104.72,
+            38.72
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "object_type": "custom_data_overlay",
+        "color": "CCFFFFFF",
+        "hoverable": true,
+        "hover_title": "Southwest Departure Flow",
+        "hover_text": "Static demo flight-flow line",
+        "tappable": true,
+        "details_title": "Southwest Departure Flow",
+        "details_subtitle": "Demo aviation flow line",
+        "details_description": "Static MyRadar-compliant LineString using object_type, color, and strokeWidth only. Not live flight data.",
+        "strokeWidth": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -104.6737,
+            39.8561
+          ],
+          [
+            -104.98,
+            39.65
+          ],
+          [
+            -105.35,
+            39.47
+          ],
+          [
+            -105.82,
+            39.25
+          ]
+        ]
+      }
+    }
+  ]
+}
